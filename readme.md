@@ -60,7 +60,7 @@ Expertises: Human Centered Design, UI/UX, SwiftUI, Ruby on Rails, Elixir, Larave
 ## Thomas Geurink
 
 - [Krokodil](https://krokodil.design)
-- [Linkedin](https://www.linkedin.com/in/thomasgeurink/
+- [Linkedin](https://www.linkedin.com/in/thomasgeurink/)
 
 Ik ben een ontwerper in de breedste zin - van digitaal tot met je vingers in de inkt en alles er tussen in. Omdat ik vind dat je je als ontwerper ook bezig moet houden met alles wat daar invloed op heeft bemoei ik mij graag met bijna alle onderdelen van een project - van user research en concepting tot en met testen met je doelgroep. 
 
