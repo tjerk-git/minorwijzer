@@ -5,13 +5,9 @@
 
 # Aanleiding & Doel
 
-De gemiddelde Nederlander maakt elke dag meerdere uren gebruik van interfaces, bijvoorbeeld via websites en apps. In deze minor leer je om web toepassingen te maken die prettig zijn om te gebruiken. Bij het maken van deze applicaties onderscheiden we twee stromen: het ontwerpen van de interface en het ontwikkelen van de applicatie.
+Onze wereld draait op het web. Digitale producten en services  zijn zo’n groot onderdeel van ons dagelijks leven geworden in alles wat we doen dat ze bijna een extensie van onze eigen identiteit zijn geworden. 
 
- In The Next Web staan vernieuwende webprojecten en apps centraal, waarbij we proberen om mens en techniek zo nauw mogelijk op elkaar aan te laten sluiten. Daarbij is niet alleen aandacht voor de technische aspecten van een product, maar ook de met emotionele en sociologische impact ervan.
- 
-Ten opzichte van andere minoren van cmd onderscheiden we doordat we een grote focus hebben op het leveren van goede producten die daadwerkelijk werken. Real artists ship! Plannen en visies zijn belangrijk, maar uiteindelijk moet er worden geleverd.
-
-In dit semester zullen we gedwongen door de uitzonderlijk omstandigheden ons onderwijs geven in een “blended” vorm. Dat wil zeggen dat we online en offline onderwijs met elkaar zullen communiceren. 
+Bij The Next Web bouwen we aan de toekomst van deze digitale wereld. Wij bedenken, ontwerpen en programmeren digitale producten die positieve impact creëren - tools die in harmonie met de complexe eigenschappen en behoeftes van mensen functioneren. Dit doen we samen met eindgebruikers, opdrachtgevers en elkaar. 
 
 ## Uitgangspunten van de minor:
 1. **Community based learning.** 
@@ -30,13 +26,22 @@ In het semester werk je gestructureerde aan je skills, jij bepaald in overleg me
 
 ## Manifesto
 
-Wil jij je aansluiten als toekomstig Next Webber, onderstreep en onderteken dan de volgende uitgangspunten.
+Als Next Webber ben je onderdeel van een bredere community van ontwerpers, programmeurs, onderzoekers en anderen die samen er voor zorgen dat de digitale wereld ook werkt voor iedereen. Daarom vinden wij het essentieel dat jij samen met ons dezelfde verantwoordelijkheid deelt. Wij hebben een TNW manifest opgesteld die jullie kunnen ondertekenen.
 
-> 1. Je maakt dingen die werken voor mensen.
-> 2. Je stelt impact boven vorm.
-> 3. Je durft te experimenteren.
-> 4. Je reflecteert op je werk en jezelf.
-> 5. Je bent onderdeel van een inclusieve community.
+> **1. Je maakt dingen die werken voor mensen**
+> Digitale producten hebben geen waarde totdat ze mensen helpen om hun doelen te behalen. Daarom ben je bij elk onderdeel van het traject bewust van de achtergrond, behoeftes en doelen van de mensen waar je je producten voor maakt. 
+
+> **2. Je stelt impact boven vorm**
+> Je begrijpt hoe je project een positieve impact heeft op de wereld en meet het succes van je keuzes aan hoe zij deze vergroten. 
+
+> **3. Je durft te experimenteren**
+> Doordat je het kader van je opdracht kent ben je niet bang om daarbinnen de randjes op te zoeken van wat mogelijk is. Je durft   het onbekende te ontdekken om daarmee op een nieuwe manier naar het bekende te kijken. 
+
+> **4. Je reflecteert op je werk en jezelf**
+> Wat je toevoegt aan de wereld hangt voor een groot deel af van wat je leert van jouw bijdrages. Je kijkt kritisch naar je rol, je werk en hoe beide impact hebben op anderen. Daarin ga je actief op zoek naar manieren om deze te verbeteren. 
+
+> **5. Je bent onderdeel van een inclusieve community**
+> Je bent onderdeel van een professionele, open community die iedereen verwelkomt. Tegelijkertijd reflecteren jouw acties ook op deze community - daarom ben je je er van bewust dat jouw persoonlijke keuzes ook impact kunnen hebben op deze community. 
 
 
 # Docenten
@@ -53,7 +58,17 @@ Expertises: Human Centered Design, UI/UX, SwiftUI, Ruby on Rails, Elixir, Larave
 > Leuk weetje: "Wou vroeger Radio DJ worden en maakte cassettebandjes met volledige setlists voor de autoreis van zijn ouders naar het werk."
 
 ## Thomas Geurink
-@todo <Thomas>
+
+- [Krokodil](https://krokodil.design)
+- [Linkedin](https://www.linkedin.com/in/thomasgeurink/
+
+Ik ben een ontwerper in de breedste zin - van digitaal tot met je vingers in de inkt en alles er tussen in. Omdat ik vind dat je je als ontwerper ook bezig moet houden met alles wat daar invloed op heeft bemoei ik mij graag met bijna alle onderdelen van een project - van user research en concepting tot en met testen met je doelgroep. 
+
+Aanwezig: alle dagen behalve woensdag
+Expertise: HCD, UX/UI, Grafisch ontwerp, Concepting, Branding, Research, User Testing, Design Sprints
+
+> Leuk weetje: heeft ten minste 1 LP met gejodel in de kast staan (en niet ironisch)
+
 ## Raymond van Dongelen
 @todo <Raymond>
 Aanwezig: Maandag, dinsdag (tot 14.15), woensdag, donderdag (tot 14:15), vrijdag (tot 14:15)
