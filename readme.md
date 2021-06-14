@@ -65,7 +65,14 @@ Raymond is ook werkzaam in de master Health Innovation
 
 
 ## Jop Wielens
-@todo <JOP>
+- [Jop die kunstzinnig doet met code](https://feelscape.art/)
+
+Met één voet in de praktijk en één in het onderwijs en onderzoek brengt ik mijn vakkennis op het gebied van game en websiteontwikkeling in op de NHL Stenden hogeschool. Dit doet ik in verschillende rollen; ik ben docent bij deze minor maar daarnaast ook een van de kerndocenten van de Master Serious Gaming onderzoeker bij het Lectoraat Serious Gaming. Ik ben in 2003 afgestudeerd aan de Hogeschool voor de Kunsten Utrecht (HKU) met een master of Arts in Digital Media Design. Sindsdien heb ik heel veel sites en games gemaakt met Macromedia Director, Flash en daarna HTML5. 
+
+Expertises: game design, front-end magic, JavaScript, 'wat als we nou eens x aan y proberen te koppelen en dan z laten draaien...' discussies na een biertje
+
+> Heeft een hekel aan frameworks, vindt liefst het wiel zelf nog een keer uit ;)
+
 
 Alle betrokken docenten zijn buiten de georganiseerde contacturen benaderbaar via Microsoft Teams.
 
