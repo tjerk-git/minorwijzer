@@ -127,6 +127,34 @@ We werken met de 80/20 regel.
 - Donderdag: Landing
 - Vrijdag: Thank god its friday!
 
+## Globale planning
+
+| Kalender week | Lesweek | Opzet                |
+| ------------- |:-----------:|----------------------|
+|35   (30-8)    | 1 | Introweek|
+|36             | 2 | Start minicase 1 |
+|37             | 3 |Eind minicase 1 |  
+|38|	4|  *Bedrijfsbezoeken* 
+|39|   5 | Start minicase 2 |
+|40|   6 | Eind minicase 2 |
+|41|   7 | Tutorial level |
+|42 (18-10)| |**Herfstvakantie** |
+|43|  | Assessment week |
+|44| 8 | Assessment week, start project |
+|45| 9 
+|46| 10
+|47| 11
+|48| 12
+|49| 13
+|50| 14
+|51| 15
+|52| | **Vakantie**
+|1| |**Vakantie**
+|2| 16
+|3| | Assessment week
+|4| | Assessmemt week
+
+
 # Key-moments
 
 ## Kickoff
