@@ -70,14 +70,18 @@ Expertise: HCD, UX/UI, Grafisch ontwerp, Concepting, Branding, Research, User Te
 > Leuk weetje: heeft ten minste 1 LP met gejodel in de kast staan (en niet ironisch)
 
 ## Raymond van Dongelen
-@todo <Raymond>
-Aanwezig: Maandag, dinsdag (tot 14.15), woensdag, donderdag (tot 14:15), vrijdag (tot 14:15)
+
+- [Blog] (https://raymond.frl)
+
+Programmeren is iets dat ik altijd heel erg leuk heb gevonden om te doen. Na mijn studie informatica heb ik een aantal jaren gewerkt als programmeur. In het werkveld raakte ik wat gefrustreerd over de slechte producten die we maakten, waarom niet meer rekening houden met de gebruikers van het product? Binnen het onderwijs vind ik het ontzettend belangrijk dat we de verschillende vakgebieden die nodig zijn om iets tofs te maken bij elkaar brengen, en ervoor zorgen dat ze goed kunnen samenwerken. Om een product te maken dat een probleem oplost, en prettig werkt, en degelijk in elkaar zit. Bij de hogeschool ben ik ook werkzaam in de master Health innovation.
+
+Aanwezig: ik werk in deeltijd, maar verdeel deze uren over de hele werkweek.
+
 Expertise: Design science, Informatica
-Consults: Afspraken maken via Teams
-Achtergrond: HBO Informatica aan de NHL Hogeschool,
-Master Applied Communication Science Universiteit Twente.
+Achtergrond: HBO Informatica aan de NHL Hogeschool,en Master Applied Communication Science Universiteit Twente.
 Raymond is ook werkzaam in de master Health Innovation
 
+> Raymond heeft een hekel aan het schrijven van teksten over Raymond
 
 ## Jop Wielens
 - [Jop die kunstzinnig doet met code](https://feelscape.art/)
