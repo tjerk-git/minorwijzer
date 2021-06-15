@@ -71,7 +71,7 @@ Expertise: HCD, UX/UI, Grafisch ontwerp, Concepting, Branding, Research, User Te
 
 ## Raymond van Dongelen
 
-- [Blog] (https://raymond.frl)
+- [Blog](https://raymond.frl)
 
 Programmeren is iets dat ik altijd heel erg leuk heb gevonden om te doen. Na mijn studie informatica heb ik een aantal jaren gewerkt als programmeur. In het werkveld raakte ik wat gefrustreerd over de slechte producten die we maakten, waarom niet meer rekening houden met de gebruikers van het product? Binnen het onderwijs vind ik het ontzettend belangrijk dat we de verschillende vakgebieden die nodig zijn om iets tofs te maken bij elkaar brengen, en ervoor zorgen dat ze goed kunnen samenwerken. Om een product te maken dat een probleem oplost, en prettig werkt, en degelijk in elkaar zit. Bij de hogeschool ben ik ook werkzaam in de master Health innovation.
 
