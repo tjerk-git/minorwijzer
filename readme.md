@@ -28,8 +28,8 @@ In het semester werk je gestructureerde aan je skills, jij bepaald in overleg me
 
 Als Next Webber ben je onderdeel van een bredere community van ontwerpers, programmeurs, onderzoekers en anderen die samen er voor zorgen dat de digitale wereld ook werkt voor iedereen. Daarom vinden wij het essentieel dat jij samen met ons dezelfde verantwoordelijkheid deelt. Wij hebben een TNW manifest opgesteld die jullie kunnen ondertekenen.
 
-> **1. Je maakt dingen die werken voor mensen**
-> Digitale producten hebben geen waarde totdat ze mensen helpen om hun doelen te behalen. Daarom ben je bij elk onderdeel van het traject bewust van de achtergrond, behoeftes en doelen van de mensen waar je je producten voor maakt. 
+> **1. Je maakt dingen die werken voor iedereen**
+> Digitale producten hebben geen waarde totdat ze mensen helpen om hun doelen te behalen. Daarom ben je bij elk onderdeel van het traject bewust van de achtergrond, behoeftes en doelen van alle mensen waar je je producten voor maakt. 
 
 > **2. Je stelt impact boven vorm**
 > Je begrijpt hoe je project een positieve impact heeft op de wereld en meet het succes van je keuzes aan hoe zij deze vergroten. 
