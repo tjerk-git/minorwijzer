@@ -123,7 +123,7 @@ We werken met de 80/20 regel.
 **Weekritme**
 - Maandag: Kickoff, minor opening
 - Dinsdag: workshops / sessies 
-- Woensdag: Paper Wednesday 
+- Woensdag: Werkdag
 - Donderdag: Landing
 - Vrijdag: Thank god its friday!
 
@@ -259,23 +259,6 @@ Mentorgesprekken (ten minste drie)
 Reflectieverslag
 
 
-## Feedback template
-
-Ik had deze leerdoelen:
-• ..
-• ..
-Wat volgens de assessoren opvalt aan het bewijsmateriaal: • ..
-• ..
-Wat volgens de assessoren opvalt aan de presentatie tijdens assessment:  • ..
-• ..
- Wat de volgende keer beter kan en vooral ook hoe:
-• ..
-• ..
-Redenen waarom de punten wel/niet/deels zijn toegekend:
-• ..
-..
-
-
 # Huisregels
 Je bent elke week aanwezig. Kun je echt niet komen dan overleg je dit tijdig met de minoreigenaar;
 Afwezigheid buiten de daarvoor bestemde periodes overleg je met de minoreigenaar;
@@ -284,8 +267,6 @@ Je zult een hele goede reden moeten hebben voor afwezigheid willen we daar reken
 ## Bewijsmaterialen
 
 ## De rekening
-
-@todo < Raymond zet jij hier iets neer? >
 
 > Wijze van aanleveren:
 > Al het materiaal (artefacten+documenten) dat je in het assessment wilt overleggen, lever je aan via [FILESURF](https://filesender.surf.nl) aan [mail naar Raymond](mailto:raymond.van.dongelen@nhlstenden.com) Documenten bevatten in ieder geval:
