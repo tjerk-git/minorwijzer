@@ -169,7 +169,7 @@ Dit is een moment waar bij de gehele minor aanwezig moet zijn.
 ## Bedrijfsbezoeken
 Tijdens een semester kunnen we op externe locaties op bezoek gaan. Wees op tijd, wees netjes.
 
-## Paper Wednesday (Screen time)
+## Paper Wednesday (Screen time) (Beta, nog niet actief)
 Je laptop (mag) mee, maar het is de bedoeling deze niet te gebruiken, echt moeite mee? Kom dan niet.
 
 
