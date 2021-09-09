@@ -64,7 +64,7 @@ Expertises: Human Centered Design, UI/UX, SwiftUI, Ruby on Rails, Elixir, Larave
 
 Ik ben een ontwerper in de breedste zin - van digitaal tot met je vingers in de inkt en alles er tussen in. Omdat ik vind dat je je als ontwerper ook bezig moet houden met alles wat daar invloed op heeft bemoei ik mij graag met bijna alle onderdelen van een project - van user research en concepting tot en met testen met je doelgroep. 
 
-Aanwezig: alle dagen behalve woensdag
+Afwezig: maandag
 Expertise: HCD, UX/UI, Grafisch ontwerp, Concepting, Branding, Research, User Testing, Design Sprints
 
 > Leuk weetje: heeft ten minste 1 LP met gejodel in de kast staan (en niet ironisch)
@@ -134,10 +134,10 @@ We werken met de 80/20 regel.
 |35   (30-8)    | 1 | Introweek|
 |36             | 2 | Start minicase 1 |
 |37             | 3 |Eind minicase 1 |  
-|38|	4|  *Bedrijfsbezoeken* 
+|38|	4|  *Tutorial level* 
 |39|   5 | Start minicase 2 |
 |40|   6 | Eind minicase 2 |
-|41|   7 | Tutorial level |
+|41|   7 | *Bedrijfsbezoeken* |
 |42 (18-10)| |**Herfstvakantie** |
 |43|  | Assessment week |
 |44| 8 | Assessment week, start project |
@@ -258,7 +258,6 @@ Bewijsmateriaal:
 Mentorgesprekken (ten minste drie)
 Reflectieverslag
 
-
 # Huisregels
 Je bent elke week aanwezig. Kun je echt niet komen dan overleg je dit tijdig met de minoreigenaar;
 Afwezigheid buiten de daarvoor bestemde periodes overleg je met de minoreigenaar;
@@ -279,12 +278,12 @@ Bronnenlijst volgens de APA-norm;
 Een ZIP mag maximaal 100MB bedragen;
 documenten moeten **altijd** als PDF aangeleverd worden.
 Geen werkbestanden, Figma / Github links zijn toegestaan.
+
 **De rekening**
 
 **Als het materiaal niet aan de inlevervoorwaarden voldoet dan wordt het niet in behandeling genomen.** 
 
 Het taalgebruik is op HBO. Het rapport is volgens de APA norm geschreven. De verschillende onderdelen van het projectrapport dienen een heldere samenhang te hebben. 
-
 
 
 ## Waar word je op beoordeeld?
