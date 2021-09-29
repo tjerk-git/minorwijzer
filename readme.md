@@ -138,7 +138,7 @@ We werken met de 80/20 regel.
 |38|	4|  *Tutorial level* 
 |39|   5 | Start minicase 2 |
 |40|   6 | Eind minicase 2 |
-|41|   7 | *Bedrijfsbezoeken* |
+|41|   7 | *Bedrijfsbezoeken (eigen iniatief* |
 |42 (18-10)| |**Herfstvakantie** |
 |43|  | Assessment week |
 |44| 8 | Assessment week, start project |
