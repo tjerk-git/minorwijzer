@@ -212,11 +212,10 @@ Aan het eind van de week maak je de balans op, wat heb je geleerd? Hoe ver ben j
 Na de minicases ga je werken aan een project voor een externe opdrachtgever. Gedurende deze periode werk je in een team. 
 Er zijn twee deadlines voor het project: de eerste deadline is voor al het geschreven materiaal. De tweede deadline is voor technische uitvoering. Tot aan de tweede deadline mag je wijzigingen doen in de code/ vormgeving die je beschikbaar hebt gesteld voor het assessment. De tweede deadline moet er voor zorgen dat je product niet lijdt onder de afrondingen van de documentatie.
 
-!-- aanpassen !-->
-Deadline eerste assessment: 22 maart voor 24.00
+Deadline eerste assessment: 24 oktober voor 22.22
 Deadlines tweede assessment: 
-Documentatie: 18 juni voor 24.00
-Code + assets: 25 juni voor 24.00
+Documentatie: TBT
+Code + assets: TBT
 
 ## Scrum
 Binnen de minor gebruiken we de methode SCRUM. Deze methode wordt ondersteund vanuit het docententeam. Binnen scrum zijn de rollen van productowner en scummaster van belang. De productowner bewaakt de belangen van het product, de scrummaster houdt het proces in de gaten. 
@@ -224,12 +223,6 @@ Als groep moet je een productowner hebben, en een scummaster leveren aan een and
 
 # Beoordeling
 Na de tweede minicase is het eerst beoordelingsmoment. Je wordt individueel getoetst op de competenties die jezelf hebt opgenomen. 
-
-Logische kandidaten voor het eerste assessment zijn:
-- Research & Innovation
-- Concepting
-- Design
-- Production
 
 De beoordeling van alle competenties wordt in gedaan door twee docenten, elk met een eigen rol. Bij elke competentie die je wilt laten beoordelen maak je een verantwoording. In deze verantwoording geef je puntsgewijs aan waarom je vindt dat competentie hebt behaald. Je gebruikt hierbij je log en de verschillende producten die je hebt gemaakt.
 
