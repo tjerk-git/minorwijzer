@@ -151,7 +151,7 @@ We werken met de 80/20 regel.
 |51| 15
 |52| | **Vakantie**
 |1| |**Vakantie**
-|2| 16
+|2| 16 | Deadline documentatie + Playtest op vrijdag
 |3| | Assessment week
 |4| | Assessmemt week
 
@@ -214,8 +214,8 @@ Er zijn twee deadlines voor het project: de eerste deadline is voor al het gesch
 
 Deadline eerste assessment: 24 oktober voor 22.22
 Deadlines tweede assessment: 
-Documentatie: TBT
-Code + assets: TBT
+Documentatie: 11 januari om 24.00
+Code + assets: 14 januari, alles werkt bij de playtest
 
 ## Scrum
 Binnen de minor gebruiken we de methode SCRUM. Deze methode wordt ondersteund vanuit het docententeam. Binnen scrum zijn de rollen van productowner en scummaster van belang. De productowner bewaakt de belangen van het product, de scrummaster houdt het proces in de gaten. 
