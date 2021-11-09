@@ -213,9 +213,11 @@ Na de minicases ga je werken aan een project voor een externe opdrachtgever. Ged
 Er zijn twee deadlines voor het project: de eerste deadline is voor al het geschreven materiaal. De tweede deadline is voor technische uitvoering. Tot aan de tweede deadline mag je wijzigingen doen in de code/ vormgeving die je beschikbaar hebt gesteld voor het assessment. De tweede deadline moet er voor zorgen dat je product niet lijdt onder de afrondingen van de documentatie.
 
 Deadline eerste assessment: 24 oktober voor 22.22
+
 Deadlines tweede assessment: 
-Documentatie: 11 januari om 24.00
-Code + assets: 14 januari, alles werkt bij de playtest
+
+- Documentatie: 11 januari om 24.00
+- Code + assets: 14 januari, alles werkt bij de playtest
 
 ## Scrum
 Binnen de minor gebruiken we de methode SCRUM. Deze methode wordt ondersteund vanuit het docententeam. Binnen scrum zijn de rollen van productowner en scummaster van belang. De productowner bewaakt de belangen van het product, de scrummaster houdt het proces in de gaten. 
