@@ -49,7 +49,7 @@ Als Next Webber ben je onderdeel van een bredere community van ontwerpers, progr
 ## Tjerk Dijkstra
 
 - [Linked in](https://www.linkedin.com/feed/)
-- [Persoonlijke blog](https://vantjerk.nl/)
+- [Persoonlijke Instagram, Twitter Kloon](https://tjerk.art/)
 
 Ik ontwerp en programmeer dingen, het liefst voor mensen, niet geheel verrassend. Alhoewel het ontwerpen voor mensen nog best vaak fout gaat, zoals vliegtuigstoelen die uiteindelijk niemand passen of gezichtsherkenning software wat per ongeluk racistisch is, minder makkelijk dan je denkt dus. Als docent binnen de academie Creative Technology probeer ik met studenten uit te vogelen hoe je nou de juiste dingen ontwerpt. Een altijd frisse combinatie van onderzoeken, iteratief werken en vooral veel maken & proberen lijkt de beste strategie tot nog toe.
 
