@@ -32,35 +32,35 @@ Als Next Webber ben je onderdeel van een bredere community van ontwerpers, progr
 
 # Minorstructuur
 
-** Minicase (2x) **
+## Minicase (2x)
 1. Je krijgt een random team toegewezen
 2. Je krijgt kort de tijd om "case" uit te werken (pressure cooker)
 3. Je werkt met aangeleverde design research methodieken (framing, why how laddering, ideation)
 4. Je werkt human centered (interviews, observaties, prototype testing)
 5. Je levert als groep een pitch met visuele en interactieve uitwerkingen van je concept. (Figma, Sketch, Paper, Keynote)
 
-** Thank God It's Friday (TGIF, doorlopend hele periode) **
+## Thank God It's Friday (TGIF, doorlopend hele periode)
 
 Op elke vrijdag werk je aan een klein project. Binnen the next web wereld wordt het werken aan side-projects gezien als een goede kans om nieuwe vaardigheden op te doen. Vaardigheden die je wellicht later in andere projecten weer nodig hebt. In het begin van het semester krijgt elke student de gelegenheid om een idee voor TGIF de pitchen. Een typisch TGIF project is klein, beetje nerdy, een beetje raar en inspirerend om aan te werken.
 
-** Skill 'm all week **
+## Skill 'm all week
 1. Je werkt bewust aan harde skills binnen het Next Web werkveld (UX, UI, Typografie,Programmeren, Sketching, Prototyping)
 2. Je gaat op bezoek bij bedrijven
 3. Mogelijk gast college vanuit experts en docenten
 4. Je werkt individueel en doelgericht aan je eigen skills en expertise
 5. TGIF + Skill em all = liefde
 
-** Assessment for learning **
+## Assessment for learning
 1. Je wordt in een 45 min individueel beoordeeld aan de hand van je rekening door twee docenten.
 2. Je levert je materiaal op tijd en netjes aan
 3. Logische kandidaten voor dit assessment zijn (Onderzoeken, Creëren en Organiseren)
 
-** Big Boss case **
+## Big Boss case
 1. Je werkt 10 / 12 weken in een samengesteld groepje aan een project.
 2. Je werkt iteratief volgens de SCRUM methodiek aan een product met een samengesteld team.
 3. Er worden verkenners aangesteld die opdrachten gaan verkennen en de teams gaan samenstellen in samenwerkingen met docenten.
 
-** Assessment as learning **
+## Assessment as learning
 1. Je wordt in een 45 min individueel beoordeeld aan de hand van je rekening door twee docenten.
 2. Er is een groepspresentatie van 15 min met ruimte voor verhelderende vragen
 
@@ -87,7 +87,7 @@ Maar weet wel, dat wij opzoek zijn naar onderbouwing, alleen horde plaatjes opst
 
 We zien graag het werk dat je hebt gedaan voor de groepsopdrachten en de community's of expertise, maar ook side projects en eigen werk zijn welkom. Zolang je iets in kunt zetten voor je eigen ontwikkeling, is het welkom bij het assessment. Tip: maak er geen portfolioshow van. We willen graag the good, the bad and the ugly zien.
 
-** Plagiaat **
+**Plagiaat**
 
 De beoordelaars gaan ervan uit dat alle documentatie die je inlevert door jou is geschreven. Het gebruik van externe bronnen geef je helder aan volgens de wijze die gebruikelijk is in APA. Er is sprake van plagiaat als: Je teksten of delen van teksten van anderen overneemt zonder een bronvermelding
 
