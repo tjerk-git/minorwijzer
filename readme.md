@@ -65,7 +65,7 @@ Op elke vrijdag werk je aan een klein project. Binnen the next web wereld wordt 
 2. Er is een groepspresentatie van 15 min met ruimte voor verhelderende vragen
 
 # Deadlines
-- Deadline 1 | Maandag 28 maart (niet definitief)
+- Deadline 1 | 25 maart (niet definitief)
 - Deadline 2 | Ergens Juni
 
 # Assessments
@@ -94,7 +94,12 @@ De beoordelaars gaan ervan uit dat alle documentatie die je inlevert door jou is
 Je tekststructuur overneemt zonder bronvermelding Voor meer informatie zie ‘How not to plagiarize’: http://ombudsperson.utoronto.ca/reports/hownottoplagiarize.pdf. Als er sprake is van plagiaat dan wordt dit voorgelegd aan de examencommissie. De examencommissie zal uitspraak doen conform het Onderwijs- en ExamenReglement (OER). Het assessment waarvoor het materiaal is ingeleverd zal worden geannuleerd. Daarmee is kans 1 niet benut en zal de beoordelaar het ingeleverde niet beoordelen.
 
 # De rekening
-@todo Ray kan jij hier specificeren wat een rekening precies moet bevatten.
+Een rekening bevat in ieder geval:
+
+- Een overzicht van opgevraagde EC's
+- Leerdoelen beschreven aan de hand van de leeruitkomsten
+- Referenties naar bewijsmateriaal of blog om aan te tonen waar de groei zit
+- Een beknopte reflectie over het leerproces per aangevraagde competentie
 
 
 # Huisregels
