@@ -76,6 +76,43 @@ Samenvatting; Inhoudsopgave met hoofdstukindeling en paginanummers; Inleiding; B
 
 Het taalgebruik is op HBO. Het rapport is volgens de APA norm geschreven. De verschillende onderdelen dienen een heldere samenhang te hebben. De gouden regel is dat docenten **mensen** zijn en ze niet langer dan een uur hebben om je materiaal goed door te nemen.
 
+## Leeruitkomsten
+
+### Onderzoeken
+1. Je onderzoekt een gegeven (well-defined) probleem met behulp van aangereikte methodieken voor desk- en fieldresearch. Je betrekt de doelgroep bij dit proces.  Je formuleert een praktische oplossing vanuit de onderzoeksresultaten en de behoefte/belangen/waarden van de doelgroep.
+
+2. Je verkent een gegeven (half gedefinieerd) probleem. Je plaatst dit in een bredere context om de unieke context van de opdracht beter te begrijpen. Je kiest een onderzoeksmethode/format en kan deze keuze beargumenteren. Je analyseert de onderzoeksresultaten, waarbij je alert bent op de betrouwbaarheid en toepasbaarheid van je inzichten; je gebruikt hierbij bestaande theorie. Je verheldert het probleem en formuleert aanbevelingen voor mogelijk oplossingen, waarbij je rekening houdt met verschillende – soms tegenstrijdige - factoren. Je betrekt de verschillende stakeholders bij dit proces.
+
+3. Je signaleert een complex (undefined, mogelijk wicked) probleem en ontwikkelt een onderzoeksrichting. Je interpreteert de verschillende (conflicterende) aspecten, belangen en waarden in je onderzoeksresultaten. Je werkt het vraagstuk uit met een zelfgekozen mix van onderzoeksmethodieken. Hierbij ontwikkel je een brede visie op het vraagstuk en de context waarbinnen het speelt, en plaats je deze in een maatschappelijk kader. Je werkt hierbij nauw samen met de verschillende stakeholders.
+
+### Creëren 
+1. Je ontwerpt een passende oplossing voor een gegeven (well-defined) probleem. Je betrekt op gezette momenten de doelgroep bij het creatieproces en maakt gebruik van (aangereikte) basiskennis/-vaardigheden. Je baseert de oplossing op inzichten en voorbeelden uit onderzoek. Dit levert een bruikbaar product op, waarbij je (kernelementen van) een bestaand idee hebt aangepast aan de toepassingscontext. 
+
+2. Je ontwerpt een doordachte oplossing voor een ingewikkeld probleem. Je betrekt regelmatig verschillende stakeholders bij het creatieproces en maakt gebruik van uitgebreide- zelf gekozen- en zelf eigengemaakte vakkennis en vaardigheden. Je baseert de oplossing op inzichten en voorbeelden uit onderzoek. Dit levert een product op waarbij bestaande ideeën op eigen wijze zijn gecombineerd en rekening gehouden is met de mogelijke impact ervan op de doelgroep en haar directe omgeving.
+
+3. Je ontwerpt een inspirerende oplossing voor een complex (undefined-, mogelijk wicked) probleem met conflicterende aspecten. Je betrekt doorlopend verschillende stakeholders bij het (co)creatieproces en maakt gebruik van breed geïntegreerde-, algemene- en specialistische vaardigheden en vakkennis. Je baseert de oplossing op inzichten uit eigen experimenten en bestaand onderzoek. Dit levert een product op waarbij  deze inzichten op een eigen manier zijn vertaald naar iets nieuws, rekening gehouden is met de maatschappelijke impact en de betekenis verder reikt dan alleen de toepassingscontext en/of dat wat onmiddellijk wordt ervaren.
+
+### Organiseren
+1. Je neemt verantwoordelijkheid voor je eigen werkzaamheden en (deel)producten. Je kijkt vooruit om je eigen activiteiten te plannen. Je maakt een overzichtelijke projectplanning voor je team en samen met je teamgenoten maak je een taakverdeling, waarbij de verschillende activiteiten met elkaar samenhangen. Doordat jij het overzicht bewaakt, kunnen je teamleden zich focussen op hun taken. Je helpt teamgenoten met hun planning, motiveert ze en spreekt ze aan als dat nodig is. Daarnaast bewaak je de sfeer in – en het functioneren van – de groep en maakt eventuele problemen bespreekbaar.
+
+2. Je hebt oog voor verschillende talenten binnen je team en zet deze in om het werkproces en het resultaat te versterken. Je draagt zorg voor de inrichting van de werkprocessen en een constructieve sfeer in de groep. Je maakt en bewaakt het overzicht hierover. Je bent assertief wanneer het nodig is, maar laat verantwoorde-lijkheden zo veel mogelijk bij de teamleden. Als aanspreekpunt ben je goed op de hoogte van wat er in de groep gebeurt. Je kunt inspelen op veranderende omstandigheden en neemt verantwoordelijkheid voor aanpassingen in de planning (of draagt taken over aan de juiste persoon). Je neemt verantwoordelijkheid voor je eigen werk, maar ook voor dat van je teamgenoten.
+
+3. Je neemt het voortouw bij de inrichting-, het bepalen van de werkwijze- en de missie en visie van een team. Hierbij maak je doeltreffend gebruik van de (culturele) diversiteit binnen de groep. Je neemt (mede) verantwoordelijkheid voor je eigen werk en dat van anderen. Je kunt werkprocessen vanuit verschillende perspectieven beoordelen en kiest de juiste interventies om je eigen effectiviteit en die van de groep te optimaliseren. Je hebt een externe focus, gericht op synergie met externe partijen. Je anticipeert op veranderende omstandigheden en neemt op adequate wijze actie.
+
+### Communiceren 
+1. Je hebt basale kennis van (interculturele) communicatie. Op basis hiervan communiceer je gericht met een bepaalde doelgroep of stakeholder. Je past je boodschap qua vorm, toon en inhoud hierop aan en luistert actief zodat de boodschap van zowel de zender als de ontvanger zo goed (duidelijk/correct/aantrekkelijk) mogelijk overkomt.
+
+2. Je hebt genuanceerde kennis van (interculturele) communicatie en kiest heel bewust op basis hiervan een juiste aanpak om stelselmatig met verschillende doelgroepen of stakeholders te communiceren. Dit leidt tot een serie uitingen die afgestemd zijn op- en/of een serie contactmomenten waarop wordt afgestemd met de doelgroep of stakeholders om 'common ground' en/of een optimaal product- of commercieel resultaat te bewerkstelligen.
+3. Je bent sensitief voor de belangen en waarden van de ander en kunt die in een bredere (cultureel) kader plaatsen. Je ontwikkelt mede op basis hiervan een integrale communicatie-strategie waarin de juiste koers wordt bepaald die moet leiden tot een gewenste beeldvorming bij zelf verkozen doelgroepen of stakeholders.
+
+### Leren 
+Deze competentie kun je niet kiezen als Keuzecompetentie. 
+
+1. Je stelt taakdoelen en creëert zo druk en houvast om jezelf te motiveren. Je kiest een geschikte tijd en plaats van leren. Je vraagt specifieke hulp bij het zoeken naar de juiste kennis en vaardigheden en bij het beoordelen of je deze voldoende beheerst. Je monitort de voortgang richting taakdoelen, reflecteert op je handelswijze en formuleert verbeterpunten voor het vervolg van het leerproces. Binnen een (multidisciplinair, divers) team kun je peers helpen en om hulp vragen.
+
+2. Je leert toepassingsgericht. Je signaleert beperkingen in kennis en vaardigheden (K&V) en stelt taak- en leerdoelen op. Je gaat gericht op zoek naar ontbrekende K&V en kiest hierbij een leerstrategie om deze op effectieve wijze eigen te maken. Je reflecteert op wat- en hoe je hebt geleerd. Hierbij beoordeel je of je de benodigde K&V voldoende beheerst en kun je om hulp vragen bij diepgaande kennisverwerking om deze toe te kunnen passen. Daarnaast vergelijk je jouw eigen leer- en werkgedrag met dat van anderen en word je bewust van je eigen comfort zone en wat daarbuiten ligt. Binnen (multidisciplinaire) teams kun je K&V op een effectieve manier overbrengen op je peers en vice versa. 
+
+3. Je leert vanuit intrinsieke motivatie. Je maakt een samenhangende set aan leerdoelen, passend bij je interesses en ambities. Je kunt informatie diepgaand verwerken om verre kennistransfers te kunnen maken. Je gaat op zoek naar sparringpartners, andere opvattingen en talenten om je zelfkennis, je visie en de leer- en handelswijze van jezelf en anderen te verrijken. Je reflecteert op wat-en hoe je hebt geleerd. Je kiest hierbij eigen criteria en normen. Binnen (multidisciplinaire, diverse) teams kun je het gemeenschappelijke leerproces regisseren waardoor er een Community of Learning(COL) ontsta
 
 ## SHOW DON'T TELL
 
