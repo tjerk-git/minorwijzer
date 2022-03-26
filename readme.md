@@ -9,6 +9,7 @@ Raymond van Dongelen, Tjerk Dijkstra, Thomas Geurink, Jop Wielens
 4. [Assessments](#Assessments)
 5. [Huisregels](#Huisregels)
 6. [Docenten](#Docenten)
+7. [Leeruitkomsten](#Leeruitkomsten)
 
 # Manifesto
 
@@ -76,7 +77,7 @@ Samenvatting; Inhoudsopgave met hoofdstukindeling en paginanummers; Inleiding; B
 
 Het taalgebruik is op HBO. Het rapport is volgens de APA norm geschreven. De verschillende onderdelen dienen een heldere samenhang te hebben. De gouden regel is dat docenten **mensen** zijn en ze niet langer dan een uur hebben om je materiaal goed door te nemen.
 
-## Leeruitkomsten
+# Leeruitkomsten
 
 ### Onderzoeken
 1. Je onderzoekt een gegeven (well-defined) probleem met behulp van aangereikte methodieken voor desk- en fieldresearch. Je betrekt de doelgroep bij dit proces.  Je formuleert een praktische oplossing vanuit de onderzoeksresultaten en de behoefte/belangen/waarden van de doelgroep.
@@ -134,7 +135,7 @@ Je tekststructuur overneemt zonder bronvermelding Voor meer informatie zie ‘Ho
 Een rekening bevat in ieder geval:
 
 - Een overzicht van opgevraagde EC's
-- Leerdoelen beschreven aan de hand van de leeruitkomsten
+- Leerdoelen beschreven aan de hand van de [Leeruitkomsten](#Leeruitkomsten)
 - Referenties naar bewijsmateriaal of blog om aan te tonen waar de groei zit
 - Een beknopte reflectie over het leerproces per aangevraagde competentie
 
