@@ -66,8 +66,8 @@ Op elke vrijdag werk je aan een klein project. Binnen the next web wereld wordt 
 2. Er is een groepspresentatie van 15 min met ruimte voor verhelderende vragen
 
 # Deadlines
-- Deadline 1 | 25 maart (niet definitief)
-- Deadline 2 | Ergens Juni
+- Deadline 1 | 28 maart 09:00
+- Deadline 2 | 17 juni, documentatie 23:23, voor aanloop van assessment mag nog gesleuteld worden aan het eindproduct.
 
 # Assessments
 Wijze van aanleveren: Al het materiaal dat je in het assessment wilt overleggen, lever je aan via FILESURF aan mail naar Raymond Documenten bevatten in ieder geval: Een voorblad met daarop je naam, studentnummer;
