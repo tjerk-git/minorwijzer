@@ -79,6 +79,10 @@ Het taalgebruik is op HBO. Het rapport is volgens de APA norm geschreven. De ver
 
 # Leeruitkomsten
 
+Wij beoordelen aan de hand van de leeruitkomsten, dit zijn onze beoordelingscriteria.
+Deze zijn opgestelt vanuit drie niveau's, bij het beoordelen van elke competentie geldt het vier ogen principe en het aanleveren van passend bewijsmateriaal.
+
+
 ### Onderzoeken
 1. Je onderzoekt een gegeven (well-defined) probleem met behulp van aangereikte methodieken voor desk- en fieldresearch. Je betrekt de doelgroep bij dit proces.  Je formuleert een praktische oplossing vanuit de onderzoeksresultaten en de behoefte/belangen/waarden van de doelgroep.
 
