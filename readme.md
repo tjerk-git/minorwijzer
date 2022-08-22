@@ -61,19 +61,47 @@ Op elke vrijdag werk je aan een klein project. Binnen the next web wereld wordt 
 2. Je werkt iteratief volgens de SCRUM methodiek aan een product met een samengesteld team.
 3. Er worden verkenners aangesteld die opdrachten gaan verkennen en de teams gaan samenstellen in samenwerkingen met docenten.
 
-## Assessment as learning
-1. Je wordt in een 45 min individueel beoordeeld aan de hand van je rekening door twee docenten.
-2. Er is een groepspresentatie van 15 min met ruimte voor verhelderende vragen
+## Assessment of learning
+1. De sessie start met een groepspresentatie van 15 min met ruimte voor verhelderende vragen
+2. Je wordt in een 30 min individueel beoordeeld aan de hand van je rekening door twee docenten.
+
 
 # Deadlines
-- Deadline 1 | 28 maart 09:00
-- Deadline 2 | 17 juni, documentatie 23:23, voor aanloop van assessment mag nog gesleuteld worden aan het eindproduct.
+- Deadline 1 | 24 oktober, uiterlijk 13:13
+- Deadline 2 | 10 januari, uiterlijk 13.13: documentatiedeadline. Na deze deadline mag je niet meer werken aan documentatie. Wel aan code en interactieve prototypes.
 
 # Assessments
-Wijze van aanleveren: Al het materiaal dat je in het assessment wilt overleggen, lever je aan via FILESURF aan mail naar Raymond Documenten bevatten in ieder geval: Een voorblad met daarop je naam, studentnummer;
-Samenvatting; Inhoudsopgave met hoofdstukindeling en paginanummers; Inleiding; Bronnenlijst volgens de APA-norm; Een ZIP mag maximaal 100MB bedragen; documenten moeten altijd als PDF aangeleverd worden. Geen werkbestanden (.ai, .sketch), Figma / Github / Youtube / Vimeo links zijn toegestaan maar verzamel deze in bestand genaamd links.pdf
+Wijze van aanleveren: Al het materiaal dat je in het assessment wilt overleggen, lever je aan via [Filesender](https://filesender.surf.nl). Je deelt dit met Raymond, hij zal er voor zorgen dat het werk gedeeld wordt met de andere docenten.
 
-**Als het materiaal niet aan de inlevervoorwaarden voldoet dan wordt het niet in behandeling genomen.**
+*Ontvankelijkheidscriteria*
+Om je werk goed te kunnen lezen en beoordelen stellen we een aantal voorwaarden aan het ingeleverde werk. Als je je niet aan deze voorwaarden houdt, dan vervalt het assessment.
+
+Voor het eerste assessment lever je je werk individueel aan: 
+- In een zip
+- Maximale grootte is 25 mb
+- Met daarin minimaal een document met de naam rekening.pdf. Dit document bevat per competentie verwijzingen naar bewijsmateriaal 
+- De verwijzingen zijn specifiek: bijvooreeld als je code schrijft dan verwijs je niet naar alle code ineens. Maar naar specifieke stukken die een bepaald leerdoel illustreren
+- Per competentie maximaal twee pagina's tekst.
+- Alle documenten hebben een voorblad, paginanummers e.d.
+- Je vraagt maximaal 18 ec aan
+
+Aanvullende voorwaarden voor het tweede assessment:
+- Materiaal van de hele projectgroep in één zip
+- Maximale grootte is 100mb
+- Per teamlid een losse map met bewijsmateriaal
+- Voor de hele groep een ingevulde matrix met de compententies waar aangewerkt is.
+- Je vraagt maximaal 18 ec aan
+- Maak je pdf in een tool die daarvoor geschikt is zoals Pages, Word, Indesign. Minder geschikt zijn webtools zoals: Notion.
+
+Algemene eisen aan documenten:
+- Inhoudsopgave met hoofdstukindeling en paginanummer
+- Inleiding
+- Bronnenlijst volgens de APA-richtlijnen
+- Documenten moeten altijd als PDF aangeleverd worden. 
+- Geen werkbestanden (.ai, .sketch), 
+- Figma / Github / Youtube / Vimeo links zijn toegestaan maar verzamel deze in bestand genaamd links.pdf
+
+**Als het materiaal niet aan de ontvankelijkheidscriteria voldoet dan wordt het niet in behandeling genomen.**
 
 Het taalgebruik is op HBO. Het rapport is volgens de APA norm geschreven. De verschillende onderdelen dienen een heldere samenhang te hebben. De gouden regel is dat docenten **mensen** zijn en ze niet langer dan een uur hebben om je materiaal goed door te nemen.
 
@@ -188,11 +216,10 @@ Expertise: HCD, UX/UI, Grafisch ontwerp, Concepting, Branding, Research, User Te
 
 Programmeren is iets dat ik altijd heel erg leuk heb gevonden om te doen. Na mijn studie informatica heb ik een aantal jaren gewerkt als programmeur. In het werkveld raakte ik wat gefrustreerd over de slechte producten die we maakten, waarom niet meer rekening houden met de gebruikers van het product? Binnen het onderwijs vind ik het ontzettend belangrijk dat we de verschillende vakgebieden die nodig zijn om iets tofs te maken bij elkaar brengen, en ervoor zorgen dat ze goed kunnen samenwerken. Om een product te maken dat een probleem oplost, en prettig werkt, en degelijk in elkaar zit. Bij de hogeschool ben ik ook werkzaam in de master Health innovation.
 
-Aanwezig: ik werk in deeltijd, maar verdeel deze uren over de hele werkweek.
+Aanwezig: Ma, di, wo, vrijdag. Maar ook verantwoordlijkheden bij de master Health innovation.
 
 Expertise: Design science, Informatica
-Achtergrond: HBO Informatica aan de NHL Hogeschool,en Master Applied Communication Science Universiteit Twente.
-Raymond is ook werkzaam in de master Health Innovation
+Achtergrond: HBO Informatica aan de NHL Hogeschool en Master Applied Communication Science Universiteit Twente.
 
 > Raymond heeft een hekel aan het schrijven van teksten over Raymond
 
