@@ -65,6 +65,33 @@ Op elke vrijdag werk je aan een klein project. Binnen the next web wereld wordt 
 1. De sessie start met een groepspresentatie van 15 min met ruimte voor verhelderende vragen
 2. Je wordt in een 30 min individueel beoordeeld aan de hand van je rekening door twee docenten.
 
+# Planning
+| Kalender week | Lesweek | Opzet                |
+| ------------- |:-----------:|----------------------|
+|35    | 1 | Introweek minor|
+|36   | 2 | Minicase 1|
+|37   | 3 | Minicase 1|  
+|38 | 4 | Minicase 1|  
+|39|5 | Skill 'em all|
+|40| 6|Minicase 2|
+|41| 6|Minicase 2|
+|42||Herfstvakantie (17-10)|
+|43|7| Assessment week 1
+|44|8| Assessment week 2, start grote case
+|45|9| 
+|46|10|
+|47|11|
+|48|12|
+|49|13| 
+|50|14|
+|51|15| 
+|52|| Kerstvakantie
+|1||Kerstvakantie
+|2|17|Deadline documentatie + eindpresentatie (13-1)
+|3|| Assessments
+|4|| Assessments
+|5|| *Start semester 2*
+
 
 # Deadlines
 - Deadline 1 | 24 oktober, uiterlijk 13:13
