@@ -65,7 +65,7 @@ Op elke vrijdag werk je aan een klein project. Binnen the next web wereld wordt 
 1. De sessie start met een groepspresentatie van 15 min met ruimte voor verhelderende vragen
 2. Je wordt in een 30 min individueel beoordeeld aan de hand van je rekening door twee docenten.
 
-# Planning
+# Planning (beta)
 | Kalender week | Lesweek | Opzet                |
 | ------------- |:-----------:|----------------------|
 |5   (30- 1)    | 1 | Startweek | 
@@ -93,8 +93,7 @@ Op elke vrijdag werk je aan een klein project. Binnen the next web wereld wordt 
 |27|| (Assessments kunnen een week naar achter ) 
 
 # Deadlines
-- Deadline 1 | 24 oktober, uiterlijk 13:13
-- Deadline 2 | 10 januari, uiterlijk 13.13: documentatiedeadline. Na deze deadline mag je niet meer werken aan documentatie. Wel aan code en interactieve prototypes.
+volgt
 
 # Assessments
 Wijze van aanleveren: Al het materiaal dat je in het assessment wilt overleggen, lever je aan via [Filesender](https://filesender.surf.nl). Je deelt dit met Raymond, hij zal er voor zorgen dat het werk gedeeld wordt met de andere docenten.
