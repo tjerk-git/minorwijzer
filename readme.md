@@ -68,30 +68,29 @@ Op elke vrijdag werk je aan een klein project. Binnen the next web wereld wordt 
 # Planning
 | Kalender week | Lesweek | Opzet                |
 | ------------- |:-----------:|----------------------|
-|35    | 1 | Introweek minor|
-|36   | 2 | Minicase 1|
-|37   | 3 | Minicase 1|  
-|38 | 4 | Minicase 1|  
-|39|5 | Skill 'em all|
-|40| 6|Minicase 2|
-|41| 6|Minicase 2|
-|42||Herfstvakantie (17-10)|
-|43|7| Assessment week 1
-|44|8| Assessment week 2, start grote case
-|45|9| 
-|46|10|
-|47|11|
-|48|12|
-|49|13| 
-|50|14|
-|51|15| 
-|52|| Kerstvakantie
-|1||Kerstvakantie
-|2|17|Deadline documentatie + eindpresentatie (13-1)
-|3|| Assessments
-|4|| Assessments
-|5|| *Start semester 2*
-
+|5   (30- 1)    | 1 | Startweek | 
+|6             | 2 |  Start minicase 1?
+|7             | 3 | |  Eind minicase 1?
+| 8 | 4| Skill them all?
+|9|| Voorjaarsvakantie
+|10|5| Minicase 2
+|11|6| Eind minicase 2
+|12|7| Assessments?
+|13|8| Start projecten
+|14|9| (Officiele assessment periode)
+|15|10| Paasmaandag
+|16|11| (hotweek)
+|17|12| 
+|18|| Meivakantie
+|19|13| 
+|20|14|
+|21|15| 
+|22|16| Pinkstermaandag
+|23|17| 
+|24|18| 
+|25|| Assessments (maar officieel een extra college week..)
+|26|| Assessments
+|27|| (Assessments kunnen een week naar achter ) 
 
 # Deadlines
 - Deadline 1 | 24 oktober, uiterlijk 13:13
