@@ -207,14 +207,12 @@ Je bent elke week aanwezig. Kun je echt niet komen dan overleg je dit tijdig met
 
 ## Tjerk Dijkstra
 
-- [Linked in](https://www.linkedin.com/feed/)
-- [Persoonlijke Instagram, Twitter Kloon](https://tjerk.art/)
+- [Linked in](https://www.linkedin.com/in/tjerk-dijkstra/)
+- [Dev blog](https://tjerk.art/)
+- [Studio](https://potloodgum.com)
+- [Hamaki](https://hamaki.pro)
 
 Beheerder en programmeur alles digitaal CMD
-- [Blog](https://blog.cmdlwd.nl)
-- [Search CMD](https://search.cmdlwd.nl/)
-- [Play CMD](https://play.cmdlwd.nl/)
-- [Feedback systeem] (soon)
 
 Ik ontwerp en programmeer dingen, het liefst voor mensen, niet geheel verrassend. Alhoewel het ontwerpen voor mensen nog best vaak fout gaat, zoals vliegtuigstoelen die uiteindelijk niemand passen of gezichtsherkenning software wat per ongeluk racistisch is, minder makkelijk dan je denkt dus. Als docent binnen de academie Creative Technology probeer ik met studenten uit te vogelen hoe je nou de juiste dingen ontwerpt. Een altijd frisse combinatie van onderzoeken, iteratief werken en vooral veel maken & proberen lijkt de beste strategie tot nog toe.
 
